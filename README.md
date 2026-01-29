@@ -49,7 +49,7 @@ This repository follows **PFSI Youth Protection, Data Classification, and Accept
 
 All work in this repository is governed by the official PFSI IT policies:
 
-➡️ **https://github.com/parentsforscouting/pfsi-it-policies**
+➡️ **https://github.com/GavanTheProgramExec/pfsi-it-policies**
 
 In particular:
 - Youth Protection & Digital Safety
