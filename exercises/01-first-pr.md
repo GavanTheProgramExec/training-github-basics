@@ -65,17 +65,7 @@ training-Jules
 
 1. Open `participants.md`
 2. Click the ✏️ **Edit** button
-3. Add a new line at the bottom using this format:
-
-```markdown
-- Your Name (GitHub username)
-
-Example:
-
-- Dan Marino (danmarino123)
-
----
-⚠️ Use:
+3. ⚠️ Use:
 
 Your own name or username
 
@@ -86,3 +76,13 @@ Or just your GitHub username if you prefer
 Add anyone else
 
 Add any titles, roles, or contact info
+
+4. Add a new line at the bottom using this format:
+
+```markdown
+- Your Name (GitHub username)
+
+Example:
+
+- Dan Marino (danmarino123)
+
