@@ -68,7 +68,7 @@ training-Jules
 3. ⚠️ Use:  
     - Your own name or username  
     - Or just your GitHub username if you prefer  
-    ❌ Do NOT:  
+   ❌ Do NOT:  
     - Add anyone else  
     - Add any titles, roles, or contact info  
 
