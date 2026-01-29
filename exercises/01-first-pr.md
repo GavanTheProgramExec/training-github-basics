@@ -74,6 +74,7 @@ Example:
 
 - Dan Marino (danmarino123)
 
+---
 ⚠️ Use:
 
 Your own name or username
